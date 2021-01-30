@@ -1,0 +1,8 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\zrt\Desktop\CSGO自写小辅助\ConsoleApplication1\ConsoleApplication1.cpp(60,10): warning C4996: 'wcsicmp': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _wcsicmp. See online help for details.
+  正在生成代码
+  1 of 20 functions ( 5.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  ConsoleApplication1.vcxproj -> C:\Users\zrt\Desktop\CSGO自写小辅助\Release\ConsoleApplication1.exe
